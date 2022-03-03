@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+}
+.menu ul{
+	list-style-type: none;
+	overflow: hidden;
+	background-color: red;
+	margin: 0;
+	padding: 0;
+}
+.menu ul li{
+	margin: 0;
+	float: left;
+}
+.menu ul li a{
+	padding: 13px 17px;
+	text-decoration: none;
+	font-size: 30px;
+	color: white;
+	display: block;
+}
+.menu ul li a:hover{
+	color: red;
+	background: white;
+}
+h1{
+	color: red;
+	font-size: 50px;
+}
+table, th, td{
+	border: 2px solid tomato;
+	text-align: center;
+}

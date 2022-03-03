@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+}
+/* Menu start */
+.navbar ul{
+	list-style-type: none;
+	overflow: hidden;
+	background-color: blue;
+	margin: 0;
+}
+.navbar li{
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.navbar li a{
+	color: white;
+	font-size: 22px;
+	text-decoration: none;
+	padding: 14px 16px;
+	display: block;
+	border-right: 2px solid white;
+}
+.navbar a:hover{
+	color: red;
+	background: white;
+}
+.navbar li img{
+	width: 82%;
+}
+.HomeText{
+color: dodgerblue;
+}
